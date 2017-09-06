@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-06T15:04:28.000Z</updated>
+  <updated>2017-09-06T15:15:50.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,11 +20,13 @@
     <link href="http://yoursite.com/2017/09/06/1992/"/>
     <id>http://yoursite.com/2017/09/06/1992/</id>
     <published>2017-09-06T15:00:00.000Z</published>
-    <updated>2017-09-06T15:04:28.000Z</updated>
+    <updated>2017-09-06T15:15:50.000Z</updated>
     
-    <content type="html"><![CDATA[<p>最近的生活，让我用一句话总结不出。<br><a id="more"></a></p>
+    <content type="html"><![CDATA[<p>最近的生活，让我用一句话总结不出。</p>
+<a id="more"></a>
+<p>最大的变化，就是搬来了北京实习吧。</p>
 <hr>
-<p>最大的变化，就是搬来了北京实习吧。<br>就这个小小的屋子<br><img src="/images/guang.jpeg" alt="“lemon”"><br><img src="/images/wan.jpeg" alt="“lemon”"><br><img src="/images/chuang.jpeg" alt="“lemon”"></p>
+<p>就这个小小的屋子<br><img src="/images/guang.jpeg" alt="“lemon”"><br><img src="/images/wan.jpeg" alt="“lemon”"><br><img src="/images/chuang.jpeg" alt="“lemon”"></p>
 <p>不懒的时候，泡的柠檬<br><img src="/images/杯子.jpeg" alt="“lemon”"></p>
 <p>每天睡到八点四十，然后化作一阵风开始<br>洗漱、开窗通风、有时还煎个蛋、换衣换鞋、拿果汁、锁门</p>
 <p>赶到公司，九点一刻。</p>
@@ -42,7 +44,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;最近的生活，让我用一句话总结不出。&lt;br&gt;
+      &lt;p&gt;最近的生活，让我用一句话总结不出。&lt;/p&gt;
     
     </summary>
     
