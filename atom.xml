@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hey,I’m Juan</title>
-  <subtitle>if you wanna know me</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-06T15:23:04.000Z</updated>
+  <updated>2017-09-08T08:38:25.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,51 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Untitled</title>
+    <link href="http://yoursite.com/2017/09/08/untitled/"/>
+    <id>http://yoursite.com/2017/09/08/untitled/</id>
+    <published>2017-09-08T15:00:00.000Z</published>
+    <updated>2017-09-08T08:38:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>������:sunny:</p>
+<p>�����������࣬���������Ƚϴ�<br>�ܵ���˵�����Ǻܿ���</p>
+<a id="more"></a>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28563101&auto=0&height=66"></iframe>
+
+
+<p>��ʵӦ��˵�㿪�ĵ����鰡:confused:</p>
+<hr>
+<p>��������������ʮ֮�˾ţ�û׼˵�Ĺ��̾Ϳ�ʼ��Ϊһ�����ĵ�����<br><strong>��˵����������</strong></p>
+<p>�������˰ɣ��������¾ͷǳ����꣬���������ھ��е�ͷ��:dizzy_face:<br>����������Ϣ���ز����ɣ�������һЩ���ǡ�</p>
+<blockquote>
+<p>Ϊʲô�����ǽ����ء�</p>
+</blockquote>
+<p>����������˼���ˣ������ǻ�ѧУ����������ʵϰ<br>�������ã����������Ŀ�ʼ����ѧУ�˰�<br>�Ͼ����ĵ��ص�ѹ������</p>
+<hr>
+<p>�����ܸо����¶�<br>�ܾ�����������</p>
+<blockquote>
+<p>������<br>������<br>����ν</p>
+</blockquote>
+<p>:hankey:f_k! </p>
+<p>�������е�����ѹ��<br>�˻���Ҫ���ľ�����</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;������:sunny:&lt;/p&gt;
+&lt;p&gt;�����������࣬���������Ƚϴ�&lt;br&gt;�ܵ���˵�����Ǻܿ���&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>2017 夏末秋初</title>
     <link href="http://yoursite.com/2017/09/06/1992/"/>
     <id>http://yoursite.com/2017/09/06/1992/</id>
     <published>2017-09-06T15:00:00.000Z</published>
-    <updated>2017-09-06T15:23:04.000Z</updated>
+    <updated>2017-09-08T06:42:36.000Z</updated>
     
     <content type="html"><![CDATA[<p>最近的生活，让我用一句话总结不出。</p>
 <a id="more"></a>
@@ -38,107 +78,15 @@
 <h4 id="那就是不重要的事"><a href="#那就是不重要的事" class="headerlink" title="那就是不重要的事"></a>那就是不重要的事</h4><p>但总有一些事，让你不愿抽身</p>
 <h4 id="就做好这些重要的事"><a href="#就做好这些重要的事" class="headerlink" title="就做好这些重要的事"></a>就做好这些重要的事</h4><p>以前是有点羡慕那些早就找到 自己喜欢的事情 的人<br>现在又觉得，<br>这么摸索在其中，也是很有意思<br>纵使总是迷茫、<br>也可能会让别人觉得<em>浪费了生命</em></p>
 <hr>
-<p>但我们本就是一粒渺小的尘埃</p>
-<h4 id="那就过的自由点吧。"><a href="#那就过的自由点吧。" class="headerlink" title="那就过的自由点吧。"></a>那就过的自由点吧。</h4><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=410654865&auto=1&height=66"></iframe>
+<blockquote>
+<p>但我们本就是一粒渺小的尘埃 </p>
+<h4 id="那就过的自由点吧。"><a href="#那就过的自由点吧。" class="headerlink" title="那就过的自由点吧。"></a>那就过的自由点吧。</h4></blockquote>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=410654865&auto=0&height=66"></iframe>
 ]]></content>
     
     <summary type="html">
     
       &lt;p&gt;最近的生活，让我用一句话总结不出。&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>config 配置</title>
-    <link href="http://yoursite.com/2017/09/06/%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E/"/>
-    <id>http://yoursite.com/2017/09/06/配置说明/</id>
-    <published>2017-09-05T16:05:50.000Z</published>
-    <updated>2017-09-06T13:26:13.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="中文解读"><a href="#中文解读" class="headerlink" title="中文解读"></a>中文解读</h1><p>－－－－－－－－－－－－－－给小二慧看的 :)</p>
-<pre><code>
-# Site #站点信息
-title: blog Name #标题
-subtitle: Subtitle #副标题
-description: my blog desc #描述
-author: me #作者
-language: zh-CN #语言
-timezone: Asia/Shanghai #时区
-# URL
-url: http://yoururl.com   #用于绑定域名, 其他的不需要配置
-root: /
-#permalink: :year/:month/:day/:title/
-permalink: posts/title.html
-permalink_defaults:
-
-# Directory #目录
-source_dir: source #源文件
-public_dir: public #生成的网页文件
-tag_dir: tags #标签
-archive_dir: archives #归档
-category_dir: categories #分类
-code_dir: downloads/code
-i18n_dir: :lang #国际化
-skip_render:
-
-# Writing #写作
-new_post_name: :title.md #新文章标题
-default_layout: post #默认模板(post page photo draft)
-titlecase: false #标题转换成大写
-external_link: true #新标签页里打开连接
-filename_case: 0
-render_drafts: false
-post_asset_folder: false
-relative_link: false
-future: true
-highlight: #语法高亮
-  enable: true
-  line_number: true #显示行号
-  auto_detect: true
-  tab_replace:
-
-# Category & Tag #分类和标签
-default_category: uncategorized #默认分类
-category_map:
-tag_map:
-
-# Date / Time format #日期时间格式
-## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
-
-# Pagination #分页
-per_page: 10 #每页文章数, 设置成 0 禁用分页
-pagination_dir: page
-
-# Extensions #插件和主题
-## 插件: http://hexo.io/plugins/
-## 主题: http://hexo.io/themes/
-theme: 
-
-# Deployment #部署, 同时发布在 GitHub 和 GitCafe 上面
-deploy:
-- type: git
-  repo: git@gitcafe.com:username/username.git,gitcafe-pages
-
-# Disqus #Disqus评论系统
-disqus_shortname: 
-
-plugins: #插件，例如生成 RSS 和站点地图的
-- hexo-generator-feed
-- hexo-generator-sitemap</code></pre>
-
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;中文解读&quot;&gt;&lt;a href=&quot;#中文解读&quot; class=&quot;headerlink&quot; title=&quot;中文解读&quot;&gt;&lt;/a&gt;中文解读&lt;/h1&gt;&lt;p&gt;－－－－－－－－－－－－－－给小二慧看的 :)&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;
-# Site #站点信息
-title: bl
     
     </summary>
     
