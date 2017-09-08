@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-08T08:41:59.000Z</updated>
+  <updated>2017-09-08T14:24:46.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>烤肉</title>
+    <link href="http://yoursite.com/2017/09/08/kaorou/"/>
+    <id>http://yoursite.com/2017/09/08/kaorou/</id>
+    <published>2017-09-08T15:30:00.000Z</published>
+    <updated>2017-09-08T14:24:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>是的，去吃烤肉了🍖</p>
+<a id="more"></a>
+<p>拍了几张，不美丽的图<br>
+正如我的心情，可以说非常凌乱了。</p>
+<hr>
+<p><img src="/images/kaorou/WechatIMG13.jpeg" alt="“lemon”"><br>
+<img src="/images/kaorou/WechatIMG14.jpeg" alt="“lemon”"><br>
+<img src="/images/kaorou/WechatIMG16.jpeg" alt="“lemon”"><br>
+<img src="/images/kaorou/WechatIMG17.jpeg" alt="“lemon”"></p>
+<blockquote>
+<p><strong>呵呵呵呵呵，又要涨两斤吧</strong></p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;是的，去吃烤肉了🍖&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Untitled</title>
