@@ -2,6 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hey,I’m Juan</title>
   
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -22,43 +23,11 @@
     <published>2017-09-10T01:00:00.000Z</published>
     <updated>2017-09-10T06:58:29.000Z</updated>
     
-    <content type="html"><![CDATA[<p>睡了特别好，特别舒服的一觉<br>
-阴沉沉，昏暗的房间告诉我<br>
-☔️下雨了☔️</p>
-<a id="more"></a>
-<hr>
-<p>昨天看了十几集人间至味是清欢<br>
-挺好看的，虽然还是那些事<br>
-但是这样让人“懒惰着”🌚🌚<br>
-也挺好<br>
-<img src="/images/yutian/WechatIMG20.jpeg" alt="“lemon”"></p>
-<p>昨天发现了一个很赞的APP<br>
-就是<em>每日优鲜</em>啦，超方便的</p>
-<hr>
-<p>也许人总是要被反复折磨<br>
-才能开始接受现实<br>
-哈哈<br>
-才会苦中作乐<br>
-平凡的人啊<br>
-不是就是这样活着吗</p>
-<p>我真的如看手相的所说</p>
-<blockquote>
-<p>偶尔会对生活感到不满</p>
-</blockquote>
-<p>人在压力之下<br>
-真的很想放弃所有的事<br>
-什么都不想坚持</p>
-<p>但是，不该是这个样子<br>
-比如煎个鸡蛋<br>
-<img src="/images/yutian/WechatIMG18.jpeg" alt="“lemon”"></p>
-<p>好了，该起来了🍀🍀</p>
-]]></content>
+    <content type="html"><![CDATA[<p>睡了特别好，特别舒服的一觉<br>阴沉沉，昏暗的房间告诉我<br>:umbrella:下雨了:umbrella:<br><a id="more"></a></p><hr><p>昨天看了十几集人间至味是清欢<br>挺好看的，虽然还是那些事<br>但是这样让人“懒惰着”:new_moon_with_face::new_moon_with_face:<br>也挺好<br><img src="/images/yutian/WechatIMG20.jpeg" alt="“lemon”"></p><p>昨天发现了一个很赞的APP<br>就是<em>每日优鲜</em>啦，超方便的</p><hr><p>也许人总是要被反复折磨<br>才能开始接受现实<br>哈哈<br>才会苦中作乐<br>平凡的人啊<br>不是就是这样活着吗</p><p>我真的如看手相的所说</p><blockquote><p>偶尔会对生活感到不满</p></blockquote><p>人在压力之下<br>真的很想放弃所有的事<br>什么都不想坚持</p><p>但是，不该是这个样子<br>比如煎个鸡蛋<br><img src="/images/yutian/WechatIMG18.jpeg" alt="“lemon”"></p><p>好了，该起来了:four_leaf_clover::four_leaf_clover:</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;睡了特别好，特别舒服的一觉&lt;br&gt;
-阴沉沉，昏暗的房间告诉我&lt;br&gt;
-☔️下雨了☔️&lt;/p&gt;
+      &lt;p&gt;睡了特别好，特别舒服的一觉&lt;br&gt;阴沉沉，昏暗的房间告诉我&lt;br&gt;:umbrella:下雨了:umbrella:&lt;br&gt;
     
     </summary>
     
@@ -74,23 +43,11 @@
     <published>2017-09-08T15:30:00.000Z</published>
     <updated>2017-09-08T15:40:07.000Z</updated>
     
-    <content type="html"><![CDATA[<p>是的，去吃烤肉了🍖</p>
-<a id="more"></a>
-<p>拍了几张，不美丽的图<br>
-正如我的心情，可以说非常凌乱了。</p>
-<hr>
-<p><img src="/images/kaorou/WechatIMG13.jpeg" alt="“lemon”"><br>
-<img src="/images/kaorou/WechatIMG14.jpeg" alt="“lemon”"><br>
-<img src="/images/kaorou/WechatIMG16.jpeg" alt="“lemon”"><br>
-<img src="/images/kaorou/WechatIMG17.jpeg" alt="“lemon”"></p>
-<blockquote>
-<p><strong>呵呵呵呵呵，又要涨两斤吧</strong></p>
-</blockquote>
-]]></content>
+    <content type="html"><![CDATA[<p>是的，去吃烤肉了:meat_on_bone:</p><a id="more"></a><p>拍了几张，不美丽的图<br>正如我的心情，可以说非常凌乱了。</p><hr><p><img src="/images/kaorou/WechatIMG13.jpeg" alt="“lemon”"><br><img src="/images/kaorou/WechatIMG14.jpeg" alt="“lemon”"><br><img src="/images/kaorou/WechatIMG16.jpeg" alt="“lemon”"><br><img src="/images/kaorou/WechatIMG17.jpeg" alt="“lemon”"></p><blockquote><p><strong>呵呵呵呵呵，又要涨两斤吧</strong></p></blockquote>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;是的，去吃烤肉了🍖&lt;/p&gt;
+      &lt;p&gt;是的，去吃烤肉了:meat_on_bone:&lt;/p&gt;
     
     </summary>
     
@@ -106,41 +63,12 @@
     <published>2017-09-08T15:00:00.000Z</published>
     <updated>2017-09-08T08:41:59.000Z</updated>
     
-    <content type="html"><![CDATA[<p>今天是☀️</p>
-<p>这两天事情多，心情起伏比较大<br>
-总的来说，不是很开心</p>
-<a id="more"></a>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28563101&auto=0&height=66"></iframe>
-<p>其实应该说点开心的事情啊😕</p>
-<hr>
-<p>可是人生不如意十之八九，没准说的过程就开始变为一件开心的事了<br>
-<strong>边说边自我疗伤</strong></p>
-<p>我这个人吧，遇到琐事就非常烦躁，例如我现在就有点头晕😵<br>
-可能最近休息严重不足吧，还带着一些焦虑、</p>
-<blockquote>
-<p>为什么，总是焦虑呢。</p>
-</blockquote>
-<p>今天又重新思考了，到底是回学校还是在这里实习<br>
-想了许久，可能我内心开始想回学校了吧<br>
-毕竟论文的重担压在身上</p>
-<hr>
-<p>总是能感觉到孤独<br>
-总觉得这个世界</p>
-<blockquote>
-<p>你来过<br>
-你走了<br>
-无所谓</p>
-</blockquote>
-<p>💩f_k!</p>
-<p>最近是有点低气压了<br>
-人还是要活的精神点</p>
-]]></content>
+    <content type="html"><![CDATA[<p>今天是:sunny:</p><p>这两天事情多，心情起伏比较大<br>总的来说，不是很开心</p><a id="more"></a><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28563101&auto=0&height=66"></iframe><p>其实应该说点开心的事情啊:confused:</p><hr><p>可是人生不如意十之八九，没准说的过程就开始变为一件开心的事了<br><strong>边说边自我疗伤</strong></p><p>我这个人吧，遇到琐事就非常烦躁，例如我现在就有点头晕:dizzy_face:<br>可能最近休息严重不足吧，还带着一些焦虑、</p><blockquote><p>为什么，总是焦虑呢。</p></blockquote><p>今天又重新思考了，到底是回学校还是在这里实习<br>想了许久，可能我内心开始想回学校了吧<br>毕竟论文的重担压在身上</p><hr><p>总是能感觉到孤独<br>总觉得这个世界</p><blockquote><p>你来过<br>你走了<br>无所谓</p></blockquote><p>:hankey:f_k! </p><p>最近是有点低气压了<br>人还是要活的精神点</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;今天是☀️&lt;/p&gt;
-&lt;p&gt;这两天事情多，心情起伏比较大&lt;br&gt;
-总的来说，不是很开心&lt;/p&gt;
+      &lt;p&gt;今天是:sunny:&lt;/p&gt;
+&lt;p&gt;这两天事情多，心情起伏比较大&lt;br&gt;总的来说，不是很开心&lt;/p&gt;
     
     </summary>
     
@@ -154,44 +82,7 @@
     <published>2017-09-06T15:00:00.000Z</published>
     <updated>2017-09-08T06:42:36.000Z</updated>
     
-    <content type="html"><![CDATA[<p>最近的生活，让我用一句话总结不出。</p>
-<a id="more"></a>
-<p>最大的变化，就是搬来了北京实习吧。</p>
-<hr>
-<p>就这个小小的屋子<br>
-<img src="/images/guang.jpeg" alt="“lemon”"><br>
-<img src="/images/wan.jpeg" alt="“lemon”"><br>
-<img src="/images/chuang.jpeg" alt="“lemon”"></p>
-<p>不懒的时候，泡的柠檬<br>
-<img src="/images/%E6%9D%AF%E5%AD%90.jpeg" alt="“lemon”"></p>
-<p>每天睡到八点四十，然后化作一阵风开始<br>
-洗漱、开窗通风、有时还煎个蛋、换衣换鞋、拿果汁、锁门</p>
-<p>赶到公司，九点一刻。</p>
-<p>忙忙碌碌，每天都在和r较劲，完成了一个又一个code<br>
-却始终不想开始写毕业论文</p>
-<p>但是终究要开始的。因为重要的事情不是它。</p>
-<p>最近出国的想法一直在脑子里盘旋，<br>
-也突然觉得，没必要每个阶段都匆匆忙忙<br>
-我很喜欢现在的生活，喜欢打r这个小怪兽<br>
-喜欢琢磨各种看起来有点geek的事情<br>
-真的很有意思。</p>
-<p>反正人生不就是在摸索自己喜欢的事情</p>
-<p>有些事也许你永远也不会为它废寝忘食</p>
-<h4>那就是不重要的事</h4>
-<p>但总有一些事，让你不愿抽身</p>
-<h4>就做好这些重要的事</h4>
-<p>以前是有点羡慕那些早就找到 自己喜欢的事情 的人<br>
-现在又觉得，<br>
-这么摸索在其中，也是很有意思<br>
-纵使总是迷茫、<br>
-也可能会让别人觉得<em>浪费了生命</em></p>
-<hr>
-<blockquote>
-<p>但我们本就是一粒渺小的尘埃</p>
-</blockquote>
-<h4>那就过的自由点吧。</h4>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=410654865&auto=0&height=66"></iframe>
-]]></content>
+    <content type="html"><![CDATA[<p>最近的生活，让我用一句话总结不出。</p><a id="more"></a><p>最大的变化，就是搬来了北京实习吧。</p><hr><p>就这个小小的屋子<br><img src="/images/guang.jpeg" alt="“lemon”"><br><img src="/images/wan.jpeg" alt="“lemon”"><br><img src="/images/chuang.jpeg" alt="“lemon”"></p><p>不懒的时候，泡的柠檬<br><img src="/images/杯子.jpeg" alt="“lemon”"></p><p>每天睡到八点四十，然后化作一阵风开始<br>洗漱、开窗通风、有时还煎个蛋、换衣换鞋、拿果汁、锁门</p><p>赶到公司，九点一刻。</p><p>忙忙碌碌，每天都在和r较劲，完成了一个又一个code<br>却始终不想开始写毕业论文</p><p>但是终究要开始的。因为重要的事情不是它。</p><p>最近出国的想法一直在脑子里盘旋，<br>也突然觉得，没必要每个阶段都匆匆忙忙<br>我很喜欢现在的生活，喜欢打r这个小怪兽<br>喜欢琢磨各种看起来有点geek的事情<br>真的很有意思。</p><p>反正人生不就是在摸索自己喜欢的事情</p><p>有些事也许你永远也不会为它废寝忘食</p><h4 id="那就是不重要的事"><a href="#那就是不重要的事" class="headerlink" title="那就是不重要的事"></a>那就是不重要的事</h4><p>但总有一些事，让你不愿抽身</p><h4 id="就做好这些重要的事"><a href="#就做好这些重要的事" class="headerlink" title="就做好这些重要的事"></a>就做好这些重要的事</h4><p>以前是有点羡慕那些早就找到 自己喜欢的事情 的人<br>现在又觉得，<br>这么摸索在其中，也是很有意思<br>纵使总是迷茫、<br>也可能会让别人觉得<em>浪费了生命</em></p><hr><blockquote><p>但我们本就是一粒渺小的尘埃 </p><h4 id="那就过的自由点吧。"><a href="#那就过的自由点吧。" class="headerlink" title="那就过的自由点吧。"></a>那就过的自由点吧。</h4></blockquote><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=410654865&auto=0&height=66"></iframe>]]></content>
     
     <summary type="html">
     
